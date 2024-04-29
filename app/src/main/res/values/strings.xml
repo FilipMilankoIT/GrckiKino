@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Grčki Kino</string>
+
+    <!-- Common -->
+    <string name="network_error">Greška pri povezivanju sa serverom</string>
+    <string name="unknown_error">Nepoznata greška</string>
+    <string name="unauthorised_error">Istekla sesija. Morate se ulogovati ponovo.</string>
+    <string name="no_internet_connection">Nema internet konekcije!</string>
+    <string name="ok">OK</string>
+    <string name="cancle">Otkaži</string>
+
+    <!-- Navigation bar -->
+    <string name="draws">Kola</string>
+    <string name="live_draws">Izvlačenje uživo</string>
+    <string name="draws_results">Rezultati izvlačenja</string>
+
+    <!-- Next Draws screen -->
+    <string name="draw_time">Vreme izvlačenja</string>
+    <string name="remaining_time">Preostalo vreme</string>
+    <string name="fetch_next_draws_error">Greška pri dohvatanju narednih kola</string>
+
+    <!-- Draw screen -->
+    <string name="back">Nazad</string>
+    <string name="draw">Kolo</string>
+    <string name="odds">Kvote</string>
+    <string name="random_selection">Slučajni odabir</string>
+    <string name="numbers">Brojeva: %d</string>
+    <string name="how_many_numbers">Koliko hočeš brojeva da izabereš?</string>
+    <string name="max_selected_numbers_message">Ne možete izabrati više od %d brojeva</string>
+    <string name="times_up_message">Vreme je isteklo za ulog</string>
+    <string name="bet">Uloži</string>
+    <string name="fetch_draw_error">Greška pri dohvatanju kola</string>
+
+    <!-- Draw Results screen -->
+    <string name="today">Danas</string>
+    <string name="yesterday">Juče</string>
+    <string name="select_date">Izaberi datum</string>
+
+</resources>
